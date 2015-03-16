@@ -1,2 +1,0 @@
-# gnulot
-gnulot's code.
